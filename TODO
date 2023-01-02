@@ -1,0 +1,9 @@
+-add pydantic schema support
+-make mkmodels more versitile
+    *make it choose to import and use data types
+    *make it support both primary and foreign keys if provided
+    *make it work whith lowercase collumn names
+-add full app layout
+-make it a program so importing or -m will rough out the dir for fastapi sqlite app
+-expand to use other sql db may not be that complicated
+-make it pip installable 
